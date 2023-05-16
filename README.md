@@ -11,8 +11,8 @@ This was also the main focus of the research in my thesis [B. Yilmaz: Accelerati
 # Appearances
 - [Virtual Ray Tracer 2.0](https://wezel.github.io/Virtual-Ray-Tracer/)
 - [Virtual Ray Tracer - Google Play Store](https://play.google.com/store/apps/details?id=com.RUG.VirtualRayTracer)
+- [Imaginary (April 2023)](https://www.imaginary.org/program/virtual-ray-tracer)
 
 # Acknowledgements
-Special thanks to my supervisors Jiri and Steffen at the research group at the University of Groningen, [Scientific Visualization and Computer Graphics (SVCG)](https://www.cs.rug.nl/svcg/), along with students who worked on extending the application!
-
+Special thanks to my supervisors Jiri and Steffen at the research group at the University of Groningen, [Scientific Visualization and Computer Graphics (SVCG)](https://www.cs.rug.nl/svcg/), along with the students who worked on extending the application in other areas!
 
