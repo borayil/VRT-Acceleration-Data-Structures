@@ -1,9 +1,11 @@
 # Acceleration data structures for Virtual Ray Tracer
 This repository contains the Axis-aligned bounding box and Octree implementations in C# for [Virtual Ray Tracer](https://github.com/wezel/Virtual-Ray-Tracer), an open-source tool for helping with education and experimentation of ray tracing.  
 
-You can find the full integrated version along with the tutorial levels I developed, with [Virtual Ray Tracer 2.0 in your browser!](https://wezel.github.io/Virtual-Ray-Tracer/). Also available in [Google Play Store!](https://play.google.com/store/apps/details?id=com.RUG.VirtualRayTracer)   
+This was the main focus of my thesis [B. Yilmaz: Acceleration data structures for Virtual Ray Tracer, BSc Thesis, University of Groningen, 2022.](https://fse.studenttheses.ub.rug.nl/27838) with the [Scientific Visualization and Computer Graphics (SVCG)](https://www.cs.rug.nl/svcg/) research group.
 
-This was also the main focus of the research in my thesis [B. Yilmaz: Acceleration data structures for Virtual Ray Tracer, BSc Thesis, University of Groningen, 2022.](https://fse.studenttheses.ub.rug.nl/27838)
+You can find the full integrated version along with the tutorial levels I developed, with [Virtual Ray Tracer 2.0 in your browser!](https://wezel.github.io/Virtual-Ray-Tracer/) Also available in [Google Play Store!](https://play.google.com/store/apps/details?id=com.RUG.VirtualRayTracer)   
+
+
 
 
 <https://user-images.githubusercontent.com/5408480/204060458-41add0ae-2935-4114-af53-04a58dc3e993.mp4>  
