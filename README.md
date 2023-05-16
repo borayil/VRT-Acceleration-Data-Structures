@@ -9,9 +9,9 @@ This was also the main focus of the research in my thesis [B. Yilmaz: Accelerati
 <https://user-images.githubusercontent.com/5408480/204060458-41add0ae-2935-4114-af53-04a58dc3e993.mp4>  
 
 # Appearances
-- [Virtual Ray Tracer on Github](https://github.com/wezel/Virtual-Ray-Tracer)
+- [Open Source Repository on GitHub](https://github.com/wezel/Virtual-Ray-Tracer)
 - [Virtual Ray Tracer 2.0 (Web Version)](https://wezel.github.io/Virtual-Ray-Tracer/)
-- [Virtual Ray Tracer - Google Play Store](https://play.google.com/store/apps/details?id=com.RUG.VirtualRayTracer)
+- [Virtual Ray Tracer on Google Play Store](https://play.google.com/store/apps/details?id=com.RUG.VirtualRayTracer)
 - [Imaginary (April 2023)](https://www.imaginary.org/program/virtual-ray-tracer)
 
 # Acknowledgements
